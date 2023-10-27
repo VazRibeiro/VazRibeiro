@@ -1,4 +1,10 @@
 ### Hi there 👋
+# Repository summary:
+- [Swinbot CAN Debugger (Embedded C++)]
+- [FastSlam (Python)](https://github.com/VazRibeiro/fastSLAM)
+- [Office Lights Distributed Control (Embedded C++)](https://github.com/VazRibeiro/Office-Light-Distributed-Real-Time-Control)
+
+
 
 <!--
 **VazRibeiro/VazRibeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
