@@ -1,4 +1,8 @@
-## Hi there 👋
+# David Alexandre Vaz Ribeiro
+**Areas of Interest:** System Control, Robotics, Embedded Systems, IoT.
+
+**Skills:** C++, Python, ROS, Git, MATLAB and Simulink, Altium, SolidWorks.
+
 ### Repository summary:
 - [Robotics_4_Farmers CAN Debugger (Embedded C++)](https://github.com/VazRibeiro/Robotics_4_Farmers_CAN_Debugger)
 - [FastSlam (Python)](https://github.com/VazRibeiro/fastSLAM)
