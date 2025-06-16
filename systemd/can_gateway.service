@@ -1,0 +1,10 @@
+[Unit]
+Description=CAN Gateway
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/ros2 launch can_gateway gateway.launch.py interface=can0
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
