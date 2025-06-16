@@ -1,0 +1,4 @@
+can_msgs/Frame frame
+---
+bool success
+string message

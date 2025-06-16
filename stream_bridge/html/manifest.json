@@ -1,0 +1,6 @@
+{
+  "name": "CAN Dashboard",
+  "short_name": "CAN",
+  "display": "standalone",
+  "start_url": "/index.html"
+}
